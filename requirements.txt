@@ -7,7 +7,6 @@ attrs==18.2.0
 backcall==0.1.0
 backports.functools-lru-cache==1.5
 beautifulsoup4==4.7.1
-binderhub==0.1.0+208.gb7dcc7f
 biopandas==0.2.3
 biopython==1.72
 bleach==3.1.0
@@ -35,7 +34,6 @@ docker==3.7.2
 docker-pycreds==0.4.0
 docopt==0.6.2
 docutils==0.14
-e==1.4.5
 EasyProcess==0.2.5
 entrypoints==0.3
 escapism==1.0.0
